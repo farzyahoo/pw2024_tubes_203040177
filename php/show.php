@@ -379,7 +379,7 @@ if(isset($_POST['cari'])) {
                      <div class="col m7 s12">
                          <form>
                             <div class="card-panel">
-                                <h5>Please Fill out this form</h5>
+                                <h5>Jangan lupa di isi yah</h5>
                                 <div class="input-field">
                                     <input type="text" name="name" id="name" required class="validate">
                                     <label for="name">Name</label>

@@ -38,7 +38,7 @@ if (isset($_POST['registrasi'])){
     <style> 
         body {
 
-    background-image: url( ../php/assets/img/loandreg.jpg);
+    background-image: url( ../php/assets/img/BP.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%; 
@@ -60,7 +60,7 @@ if (isset($_POST['registrasi'])){
 
          <div class="row">
         <div class="col s12 m4 offset-m4 ">
-            <div class="card z-depth-5 transparent">
+            <div class="card z-depth-5 grey transparent">
                 <div class="card-action cyan white-text transparent">
                     <h3 align="center">Form Registrasi</h3>
                 </div>
